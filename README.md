@@ -20,3 +20,6 @@ $ docker-compose exec web /bin/ash
 /app/vue-project # cd vue-project
 /app/vue-project # npm run serve
 ```
+
+http://localhost:1234
+
